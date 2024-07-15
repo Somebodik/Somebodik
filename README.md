@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Somebodik
 - 👀 I’m interested in translating modifications on Doki Doki Literature Club
 - 🌱 I’m currently learning how to translate the game and work with the game code
-- 💞️ I’m looking to collaborate on The One Translator
+- 💞️ I’m looking to collaborate on TheOneTranslator
 - 📫 How to reach me: https://m.vk.com/krio_101  and discord: Somebody _somebody_003
 - 😄 Pronouns: he
 - ⚡ Fun fact: ...
